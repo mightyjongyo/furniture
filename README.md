@@ -1,2 +1,2 @@
 # furniture
-freeCAD files for furniture projects
+freeCAD and/or Sketchup files for furniture projects
